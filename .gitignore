@@ -1,0 +1,19 @@
+# Dataset — too large for GitHub
+data/
+
+# Trained model weights
+models/*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Temp files
+*.tmp
+outputs/
+
+# Kaggle credentials — NEVER upload this!
+kaggle.json
+.kaggle/
